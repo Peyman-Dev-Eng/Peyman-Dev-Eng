@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peyman
-
+### I am a student, and naturally, I pursue my interests and work hard at them in order to grow and progress.
 ### C++ Developer & Systems Enthusiast  
 **Passionate about Game Engines, Low-Level Programming & Custom Data Structures**
 

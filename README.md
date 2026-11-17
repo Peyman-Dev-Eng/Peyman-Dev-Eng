@@ -122,6 +122,7 @@ I prefer implementing core data structures and systems myself to gain a deep und
 Interested in collaborating, discussing technical topics, or just chatting about C++ and Game Development? Feel free to reach out!
 
 - GitHub: [Peyman-Dev-Eng](https://github.com/Peyman-Dev-Eng)
+- Email: 2025julylyly@gmail.com
 
 ---
 

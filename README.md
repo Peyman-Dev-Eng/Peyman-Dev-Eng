@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:1F6FEB&height=190&section=header&text=Peyman&fontSize=58&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20Developer%20%7C%20Game%20Engine%20%26%20Graphics%20Programming&descAlignY=59&descSize=17" width="100%" alt="Peyman — C++ Developer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Peyman&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Game%20Engine%20Architecture&descAlignY=55&descSize=18"
+  width="100%"
+  alt="Peyman — C++ Developer"
+/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Modern+C%2B%2B+Development;Game+Engine+Architecture;2D+Rendering+%26+Graphics;Building+Systems+from+the+Ground+Up" alt="Animated introduction" />
